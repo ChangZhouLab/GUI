@@ -1,1 +1,2 @@
 GUI.exe filter=lfs diff=lfs merge=lfs -text
+RForest.pkl filter=lfs diff=lfs merge=lfs -text
