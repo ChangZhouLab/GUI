@@ -1,0 +1,7 @@
+1. Please download all the documents in this folder
+
+2. All the documents are necessary for the operation of GUI.exe 
+
+3. Please put them in the same folder while runing GUI.exe
+
+4. It may take 20s to launch this software.
